@@ -1,0 +1,29 @@
+# Secrets — never bake into the image
+.env
+
+# Not needed for the backend image
+frontend.py
+requirements.txt
+data/
+backend/
+RAG_routes/
+frontend/
+splitting logic/
+
+# Notebooks and caches
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git / editor / OS junk
+.git
+.gitignore
+.dockerignore
+.vscode/
+.idea/
+.DS_Store
+README.md
