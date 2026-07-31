@@ -33,7 +33,7 @@ The repository is cleanly divided into specific modules to maintain a profession
 
 ## Application Interface
 
-![Application Screenshot Placeholder](placeholder_image.png)
+![Application Screenshot Placeholder](images/Screenshot%202026-07-31%20193156.png.png)
 
 ## Installation and Usage
 
